@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/smart_hospital
+db.username=root
+db.password=CHANGE_ME
