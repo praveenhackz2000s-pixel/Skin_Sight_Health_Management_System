@@ -1,0 +1,9 @@
+.git
+.gitignore
+.vscode
+out
+db.properties
+.env
+*.md
+docs
+deploy
