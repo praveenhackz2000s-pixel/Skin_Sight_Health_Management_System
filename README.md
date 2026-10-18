@@ -426,3 +426,4 @@ Tested by the author of this package in a Linux sandbox (Ubuntu 24.04, OpenJDK 1
   untested.
 * `run.bat` on **Windows**, VS Code, the `Dockerfile` build, and any **hosted deployment**. Nothing has been deployed.
 * The pages were validated but not looked at in a real browser on a phone or desktop.
+# Skin_Sight_Health_Management_System
